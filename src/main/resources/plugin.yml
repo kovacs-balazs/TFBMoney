@@ -1,0 +1,13 @@
+name: TFBMoney
+version: '${project.version}'
+main: me.koba1.tfbmoney.Main
+api-version: 1.17
+authors: [ kbalu ]
+description: TFBMoney for Towny
+
+depend:
+  - Vault
+  - Oraxen
+
+commands:
+  bank:
